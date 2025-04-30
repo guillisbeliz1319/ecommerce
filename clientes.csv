@@ -1,0 +1,101 @@
+nombre,email,fecha_registro,ciudad,pais,genero,edad
+Taylor Rodríguez,taylor.rodríguez1@ejemplo.com,2023-07-08 16:11:36.617398,Madrid,España,No especificado,69
+María López,maría.lópez2@ejemplo.com,2024-07-28 16:11:36.617427,Barcelona,España,Femenino,56
+Casey Martínez,casey.martínez3@ejemplo.com,2024-03-19 16:11:36.617439,Valencia,España,No especificado,64
+Elena Martínez,elena.martínez4@ejemplo.com,2025-03-25 16:11:36.617449,Sevilla,España,Femenino,67
+Laura Rodríguez,laura.rodríguez5@ejemplo.com,2023-11-29 16:11:36.617460,Bilbao,España,Femenino,61
+Alex Rodríguez,alex.rodríguez6@ejemplo.com,2023-05-04 16:11:36.617470,Sevilla,España,No especificado,64
+Taylor García,taylor.garcía7@ejemplo.com,2024-06-27 16:11:36.617480,Madrid,España,No especificado,47
+Elena González,elena.gonzález8@ejemplo.com,2025-02-21 16:11:36.617490,Bilbao,España,Femenino,29
+Taylor Martínez,taylor.martínez9@ejemplo.com,2024-10-21 16:11:36.617499,Madrid,España,No especificado,67
+Alex López,alex.lópez10@ejemplo.com,2023-10-01 16:11:36.617509,Barcelona,España,No especificado,48
+María González,maría.gonzález11@ejemplo.com,2025-04-07 16:11:36.617520,Valencia,España,Femenino,45
+Casey González,casey.gonzález12@ejemplo.com,2023-10-03 16:11:36.617529,Barcelona,España,No especificado,31
+Carlos González,carlos.gonzález13@ejemplo.com,2024-07-11 16:11:36.617540,Valencia,España,Masculino,53
+Laura García,laura.garcía14@ejemplo.com,2024-06-01 16:11:36.617549,Valencia,España,Femenino,63
+Elena López,elena.lópez15@ejemplo.com,2024-02-28 16:11:36.617558,Barcelona,España,Femenino,55
+Juan González,juan.gonzález16@ejemplo.com,2024-07-28 16:11:36.617568,Valencia,España,Masculino,54
+David Martínez,david.martínez17@ejemplo.com,2024-01-14 16:11:36.617578,Barcelona,España,Masculino,57
+María García,maría.garcía18@ejemplo.com,2023-08-06 16:11:36.617588,Sevilla,España,Femenino,31
+Elena Martínez,elena.martínez19@ejemplo.com,2024-08-21 16:11:36.617597,Valencia,España,Femenino,25
+Carlos García,carlos.garcía20@ejemplo.com,2025-01-14 16:11:36.617607,Barcelona,España,Masculino,70
+Sofía López,sofía.lópez21@ejemplo.com,2023-10-21 16:11:36.617616,Valencia,España,Femenino,28
+Casey García,casey.garcía22@ejemplo.com,2025-01-31 16:11:36.617629,Sevilla,España,No especificado,53
+Juan García,juan.garcía23@ejemplo.com,2023-11-01 16:11:36.617639,Sevilla,España,Masculino,29
+Ana González,ana.gonzález24@ejemplo.com,2024-10-13 16:11:36.617648,Valencia,España,Femenino,22
+Casey Rodríguez,casey.rodríguez25@ejemplo.com,2024-10-27 16:11:36.617658,Barcelona,España,No especificado,52
+Taylor Rodríguez,taylor.rodríguez26@ejemplo.com,2024-01-08 16:11:36.617668,Madrid,España,No especificado,69
+María Martínez,maría.martínez27@ejemplo.com,2023-06-14 16:11:36.617678,Sevilla,España,Femenino,33
+Alex García,alex.garcía28@ejemplo.com,2023-07-06 16:11:36.617687,Madrid,España,No especificado,62
+Ana Rodríguez,ana.rodríguez29@ejemplo.com,2023-10-10 16:11:36.617697,Valencia,España,Femenino,44
+Miguel García,miguel.garcía30@ejemplo.com,2024-03-04 16:11:36.617706,Barcelona,España,Masculino,69
+Elena Martínez,elena.martínez31@ejemplo.com,2024-10-07 16:11:36.617716,Barcelona,España,Femenino,31
+Sam González,sam.gonzález32@ejemplo.com,2024-05-20 16:11:36.617726,Bilbao,España,No especificado,58
+Juan Martínez,juan.martínez33@ejemplo.com,2023-06-10 16:11:36.617735,Valencia,España,Masculino,30
+Ana López,ana.lópez34@ejemplo.com,2024-09-28 16:11:36.617745,Madrid,España,Femenino,25
+Ana López,ana.lópez35@ejemplo.com,2025-03-06 16:11:36.617755,Sevilla,España,Femenino,26
+Sofía Rodríguez,sofía.rodríguez36@ejemplo.com,2025-03-21 16:11:36.617764,Valencia,España,Femenino,34
+Ana López,ana.lópez37@ejemplo.com,2024-05-29 16:11:36.617774,Barcelona,España,Femenino,59
+Elena García,elena.garcía38@ejemplo.com,2024-04-22 16:11:36.617783,Madrid,España,Femenino,52
+Sam González,sam.gonzález39@ejemplo.com,2023-12-04 16:11:36.617793,Valencia,España,No especificado,28
+Carlos González,carlos.gonzález40@ejemplo.com,2023-08-04 16:11:36.617802,Barcelona,España,Masculino,46
+Ana López,ana.lópez41@ejemplo.com,2025-01-16 16:11:36.617812,Valencia,España,Femenino,22
+Laura García,laura.garcía42@ejemplo.com,2024-06-07 16:11:36.617821,Barcelona,España,Femenino,70
+José López,josé.lópez43@ejemplo.com,2025-02-05 16:11:36.617831,Madrid,España,Masculino,23
+María López,maría.lópez44@ejemplo.com,2024-08-02 16:11:36.617841,Valencia,España,Femenino,48
+José López,josé.lópez45@ejemplo.com,2024-08-17 16:11:36.617850,Bilbao,España,Masculino,37
+Ana Rodríguez,ana.rodríguez46@ejemplo.com,2023-06-17 16:11:36.617860,Valencia,España,Femenino,36
+Laura López,laura.lópez47@ejemplo.com,2025-01-01 16:11:36.617869,Barcelona,España,Femenino,51
+José Rodríguez,josé.rodríguez48@ejemplo.com,2024-11-05 16:11:36.617879,Barcelona,España,Masculino,41
+Juan González,juan.gonzález49@ejemplo.com,2024-11-17 16:11:36.617888,Valencia,España,Masculino,28
+José Rodríguez,josé.rodríguez50@ejemplo.com,2025-01-10 16:11:36.617897,Madrid,España,Masculino,22
+Carlos Rodríguez,carlos.rodríguez51@ejemplo.com,2024-01-09 16:11:36.617907,Barcelona,España,Masculino,25
+Laura García,laura.garcía52@ejemplo.com,2023-10-04 16:11:36.617917,Madrid,España,Femenino,62
+Sam Martínez,sam.martínez53@ejemplo.com,2023-05-16 16:11:36.617926,Madrid,España,No especificado,61
+Sam Martínez,sam.martínez54@ejemplo.com,2024-06-24 16:11:36.617935,Sevilla,España,No especificado,33
+Ana García,ana.garcía55@ejemplo.com,2024-04-08 16:11:36.617944,Valencia,España,Femenino,47
+Carlos Rodríguez,carlos.rodríguez56@ejemplo.com,2023-12-16 16:11:36.617953,Madrid,España,Masculino,38
+Juan Rodríguez,juan.rodríguez57@ejemplo.com,2024-01-24 16:11:36.617961,Barcelona,España,Masculino,29
+Miguel García,miguel.garcía58@ejemplo.com,2025-04-01 16:11:36.617969,Madrid,España,Masculino,50
+David Rodríguez,david.rodríguez59@ejemplo.com,2023-06-07 16:11:36.617978,Valencia,España,Masculino,39
+Miguel López,miguel.lópez60@ejemplo.com,2024-04-22 16:11:36.617986,Sevilla,España,Masculino,25
+Alex López,alex.lópez61@ejemplo.com,2023-06-12 16:11:36.617995,Barcelona,España,No especificado,20
+Alex González,alex.gonzález62@ejemplo.com,2023-09-03 16:11:36.618004,Sevilla,España,No especificado,20
+Sam González,sam.gonzález63@ejemplo.com,2025-02-01 16:11:36.618013,Bilbao,España,No especificado,59
+Elena López,elena.lópez64@ejemplo.com,2023-11-20 16:11:36.618020,Bilbao,España,Femenino,20
+Taylor González,taylor.gonzález65@ejemplo.com,2024-08-31 16:11:36.618029,Madrid,España,No especificado,55
+María Rodríguez,maría.rodríguez66@ejemplo.com,2024-09-16 16:11:36.618039,Bilbao,España,Femenino,20
+María García,maría.garcía67@ejemplo.com,2024-05-16 16:11:36.618048,Valencia,España,Femenino,58
+Miguel González,miguel.gonzález68@ejemplo.com,2024-09-24 16:11:36.618056,Valencia,España,Masculino,38
+Ana Martínez,ana.martínez69@ejemplo.com,2023-05-21 16:11:36.618065,Barcelona,España,Femenino,40
+Casey García,casey.garcía70@ejemplo.com,2024-07-30 16:11:36.618074,Barcelona,España,No especificado,44
+Sam González,sam.gonzález71@ejemplo.com,2023-12-15 16:11:36.618083,Madrid,España,No especificado,47
+Taylor García,taylor.garcía72@ejemplo.com,2024-11-29 16:11:36.618092,Bilbao,España,No especificado,63
+Alex López,alex.lópez73@ejemplo.com,2024-03-24 16:11:36.618101,Bilbao,España,No especificado,31
+Sam García,sam.garcía74@ejemplo.com,2023-11-20 16:11:36.618109,Barcelona,España,No especificado,18
+Taylor Rodríguez,taylor.rodríguez75@ejemplo.com,2023-09-24 16:11:36.618119,Sevilla,España,No especificado,54
+José González,josé.gonzález76@ejemplo.com,2024-11-08 16:11:36.618129,Madrid,España,Masculino,68
+Sofía González,sofía.gonzález77@ejemplo.com,2023-10-01 16:11:36.618138,Bilbao,España,Femenino,52
+Sam García,sam.garcía78@ejemplo.com,2023-10-08 16:11:36.618149,Madrid,España,No especificado,49
+Sofía González,sofía.gonzález79@ejemplo.com,2024-11-22 16:11:36.618159,Barcelona,España,Femenino,18
+Casey López,casey.lópez80@ejemplo.com,2024-06-11 16:11:36.618169,Barcelona,España,No especificado,66
+Laura Rodríguez,laura.rodríguez81@ejemplo.com,2023-12-01 16:11:36.618179,Bilbao,España,Femenino,53
+José González,josé.gonzález82@ejemplo.com,2024-08-09 16:11:36.618189,Barcelona,España,Masculino,22
+Ana González,ana.gonzález83@ejemplo.com,2023-11-01 16:11:36.618198,Bilbao,España,Femenino,27
+Sam González,sam.gonzález84@ejemplo.com,2024-04-04 16:11:36.618208,Madrid,España,No especificado,69
+Carlos Martínez,carlos.martínez85@ejemplo.com,2023-07-29 16:11:36.618794,Valencia,España,Masculino,70
+Taylor López,taylor.lópez86@ejemplo.com,2023-06-05 16:11:36.618810,Sevilla,España,No especificado,70
+Casey Rodríguez,casey.rodríguez87@ejemplo.com,2024-12-06 16:11:36.618819,Barcelona,España,No especificado,22
+María Rodríguez,maría.rodríguez88@ejemplo.com,2023-05-14 16:11:36.618828,Madrid,España,Femenino,45
+Sofía García,sofía.garcía89@ejemplo.com,2024-11-24 16:11:36.618836,Valencia,España,Femenino,53
+Jordan García,jordan.garcía90@ejemplo.com,2024-10-17 16:11:36.618844,Valencia,España,No especificado,49
+José Martínez,josé.martínez91@ejemplo.com,2024-05-13 16:11:36.618853,Madrid,España,Masculino,69
+Juan García,juan.garcía92@ejemplo.com,2024-04-02 16:11:36.618861,Bilbao,España,Masculino,68
+Jordan López,jordan.lópez93@ejemplo.com,2024-11-12 16:11:36.618871,Bilbao,España,No especificado,34
+Jordan González,jordan.gonzález94@ejemplo.com,2024-11-18 16:11:36.618879,Valencia,España,No especificado,65
+Carlos González,carlos.gonzález95@ejemplo.com,2023-10-10 16:11:36.618887,Sevilla,España,Masculino,54
+David López,david.lópez96@ejemplo.com,2023-10-13 16:11:36.618895,Bilbao,España,Masculino,39
+Alex López,alex.lópez97@ejemplo.com,2024-01-22 16:11:36.618903,Bilbao,España,No especificado,61
+Ana Martínez,ana.martínez98@ejemplo.com,2023-08-13 16:11:36.618912,Bilbao,España,Femenino,48
+Jordan González,jordan.gonzález99@ejemplo.com,2025-04-29 16:11:36.618920,Sevilla,España,No especificado,41
+Elena García,elena.garcía100@ejemplo.com,2023-07-26 16:11:36.618927,Barcelona,España,Femenino,63
